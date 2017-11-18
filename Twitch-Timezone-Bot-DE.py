@@ -36,8 +36,8 @@ vOt = " am "
 timeCode = '%H:%M'
 dateCode = '%d.%m.%Y'
 
-commandInfo = "!infozeit"
-command = "!zeit"
+commandInfo = "infozeit"
+command = "zeit"
 
 error = "Fehler!"
 
