@@ -36,8 +36,8 @@ vOt = " on the "
 timeCode = '%H:%M'
 dateCode = '%d.%m.%Y'
 
-commandInfo = "!infotime"
-command = "!time"
+commandInfo = "infotime"
+command = "time"
 
 error = "Error!"
 
